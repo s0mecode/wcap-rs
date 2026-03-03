@@ -1,0 +1,31 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
+# CMake
+/build/
+/CMakeCache.txt
+/CMakeFiles/
+/CMakeTmp/
+/Makefile
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.so
+*.a
+*.lib
+
+# Test outputs
+snapshot.png
