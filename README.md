@@ -79,4 +79,4 @@ impl ScreenCapture {
 
 ## License
 
-Apache-2.0
+Apache-2.0 - see [License](LICENSE) for details.

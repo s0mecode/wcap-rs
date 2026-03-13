@@ -1,5 +1,10 @@
 [package]
 name = "wcap-rs"
+description = "Simple library for screen or window capture on Wayland"
+license = "Apache-2.0"
+repository = "https://github.com/s0mecode/wcap-rs"
+readme = "README.md"
+keywords = ["screen", "window", "capture", "wayland"]
 version = "0.1.0"
 edition = "2021"
 
